@@ -6,11 +6,8 @@
     </a>
 </div>  
 <div align="center">
-  <image src="https://giphy.com/embed/Js7cqIkpxFy0bILFFA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></image>
+  <image src="[https://giphy.com/embed/Js7cqIkpxFy0bILFFA](https://media1.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif)" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></image>
 </div>
-<p>
-  <a href="https://giphy.com/gifs/nasa-nasareactions-Js7cqIkpxFy0bILFFA">via GIPHY</a>
-</p>
   <br>
 <p align="center">
   <a href="https://skillicons.dev">
