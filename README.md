@@ -10,10 +10,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" alt="LinkedIn         Badge"/>
     </a>
 </div>  
-  <image src:"https://github.com/robiloz/robiloz/assets/126358670/e79a781a-3bf6-4685-87cf-33c8f9ef2c9a"></image>
-<div align="center">
-
-</div>
   <br>
 <p align="center">
   <a href="https://skillicons.dev">
