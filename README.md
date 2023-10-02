@@ -5,7 +5,12 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" alt="LinkedIn         Badge"/>
     </a>
 </div>  
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l3UcqjMBeQzXaoqGI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/point-finger-animation-aftereffects-l3UcqjMBeQzXaoqGI">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+  <iframe src="https://giphy.com/embed/l3UcqjMBeQzXaoqGI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p>
+  <a href="https://giphy.com/gifs/point-finger-animation-aftereffects-l3UcqjMBeQzXaoqGI">via GIPHY</a>
+</p>
   <br>
 <p align="center">
   <a href="https://skillicons.dev">
